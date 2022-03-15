@@ -1,7 +1,17 @@
-# comp767_project
-comp767 class project
+# comp767 class project : Prioritized Experience Replay
 
-Instructions for submission:
+Colab notebook: https://colab.research.google.com/drive/1em5DtmEFHhQT7I1FSbgYb-qCYrs-V8oF?usp=sharing
+
+
+Reference: 
+
+Human-level control through deep reinforcement learning
+    
+Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., Graves, A., Riedmiller, M. A., Fidjeland, A., Ostrovski, G., Petersen, S., Beattie, C., Sadik, A., Antonoglou, I., King, H., Kumaran, D., Wierstra, D., Legg, S. & Hassabis, D. (2015). Human-level control through deep reinforcement learning.. Nature, 518, 529-533.
+
+<br/>
+
+##### Instructions for submission:
 
 Each team will make a MyCourses submission which should include a single pdf report about the project which contains:
 
@@ -15,5 +25,5 @@ Ideally, projects should include a reproducibility checklist (https://www.cs.mcg
 2 - A link to the codebase must be provided in the same report. You have multiple choices. Please ensure the codebase is accompanied with a README file and instructions to install and run it. You can host the code wherever you like as long as we are able to access it, this could be:
 * A github link to the code used for empirical results, the project repo can be private, Prof. Precup (doinaprecup) and the TA’s (kkhetarpal, veronicachelu, NishanthVAnand) should be added to the project to be able to access it.
 * A link to your google drive/dropbox with complete codebase. 
-* 
+
 3 - A link to a Youtube private/unlisted short spotlight video (2-3 minutes) video (video can’t be accessed by search) must be provided in the same report.  The video should explain what your project was about, what you did and what was your most interesting finding.
